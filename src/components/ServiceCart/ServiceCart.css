@@ -1,0 +1,7 @@
+.services{
+    display: grid;
+    align-items: center;
+    grid-template-columns: repeat(1, 3fr);
+    margin: 20px auto;
+    padding: 20px;
+}

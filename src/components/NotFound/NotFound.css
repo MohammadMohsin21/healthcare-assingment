@@ -1,0 +1,14 @@
+.error-page img{
+    width: 100%;
+    height: 650px;
+}
+.error-massage{
+    height: 500px;
+}
+.error-massage h1{
+    text-align: center;
+    font-size: 200px;
+    font-weight: 900;
+    margin-top: -500px;
+    color: #ffffff38;
+}
